@@ -1,4 +1,4 @@
-# mVein-sigorta
+# mVeinInsurance
 - Vehicle insurance system with an amount of 10% of the sales price of all vehicles defined in qb-core!
 - New QBCore
 
@@ -23,5 +23,5 @@
 - Add the following code to your server.cfg/resources.cfg
 - Add `sigorta` columns from `player_vehicles` table.
 ```
-ensure mVein-sigorta
+ensure mVeinInsurance
 ```
